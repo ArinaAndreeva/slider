@@ -2,10 +2,13 @@
 
 ## Description
 
-**SLIDER**
+**HOMEPAGE**
+
 <img src="homepage.png" width="100%">
 
 <h2 align="center">Live Demo</h2>
+
+**SLIDER**
 
 <p align="center">
 <img src="https://media.giphy.com/media/u15XhtdIRaz8Vqzvw3/giphy.gif" width="80%"></p>
